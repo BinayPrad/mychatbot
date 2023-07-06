@@ -1,4 +1,9 @@
 streamlit
+llama-index
+tiktoken
+langchain
+playwright
+openai
 hugchat
 streamlit-chat
 streamlit-extras
