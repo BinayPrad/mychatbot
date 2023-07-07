@@ -8,7 +8,7 @@ from llama_index import GPTVectorStoreIndex
 from llama_index import LLMPredictor, GPTVectorStoreIndex, PromptHelper, ServiceContext
 from langchain import OpenAI
 
-doc_path = './data/'
+doc_path = '/data/'
 index_file = 'index.json'
 
 if 'response' not in st.session_state:
